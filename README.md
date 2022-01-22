@@ -1,6 +1,5 @@
 
 Hello to visitors ! 
 This is my resume> 
-Contact to me >
  Thnks for attention.
-Using only HTML + CSS 
+Using only HTML + CSS in RESUME.
